@@ -5,7 +5,7 @@
 
 Full-Stack-Web-Development, jedoch mittendrin im Front-End (zurzeit Vanilla Javascript intensiv, bald React, danach Databases (SQL), NodeJS usw...).
 
-Parallel dazu, Python, um anderen Interessen nachzugehen sowie Kenntnisse für sp
+Parallel dazu, Python, um anderen Interessen nachzugehen sowie Kenntnisse für später zu sammeln.
 
 ### 🚀 **Mein Start**
 Seit Oktober 2025 intensiv mit eigenständigem Lernen angefangen, durch die angegebenen Quellen habe ich eine gute Roadmap für mich aufgebaut und dadurch, dass es kein Hand-Holding oder Musterlösungen gibt bei den vorgeschlagenen Projekten, lerne ich mehr durch eigene Recherche und Praxis.
