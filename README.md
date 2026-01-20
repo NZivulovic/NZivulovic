@@ -25,7 +25,7 @@ Seit Oktober 2025 intensiv mit eigenständigem Lernen angefangen, durch die unte
 **Projekte, an denen ich aktiv arbeite oder plane:**
 ##
   Aktive:
-   - [📝 Dynamische To-Do-Listen Website](https://github.com/NZivulovic/JS-Practice_To-Do-List_with_Webpack)
+   - [📝 Dynamische To-Do-List Website](https://github.com/NZivulovic/JS-Practice_To-Do-List_with_Webpack)
 ##
   Geplante:
   - HTML, CSS, JavaScript:
